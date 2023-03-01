@@ -11,3 +11,5 @@ I have knowledge in:
   - ![image](https://user-images.githubusercontent.com/85950494/146093953-1162e2d3-1b7d-4a19-beb3-0949130a0841.png) Firebase
 
 🌱 I’m currently learning on how to build an app for a restaurant, where you can take orders with React.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Laurab01)](https://github.com/anuraghazra/github-readme-stats)

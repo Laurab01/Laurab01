@@ -11,4 +11,3 @@ I have knowledge in:
 
 🌱 I’m currently learning on how to build an app for a restaurant, where you can take orders using React.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Laurab01)](https://github.com/anuraghazra/github-readme-stats)
